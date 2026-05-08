@@ -183,26 +183,3 @@ Si quieres aprender más:
 
 ---
 
-## 🎓 Desarrollado Para
-
-Esta app fue creada para demostrar:
-- Cómo construir apps móviles modernas
-- Código limpio y bien organizado
-- Buena experiencia de usuario (UX)
-- Manejo profesional de errores y validaciones
-
----
-
-## ❓ ¿Preguntas?
-
-Si algo no funciona o no entiendes cómo hacerlo:
-1. Revisa las instrucciones arriba
-2. Reinicia la app
-3. Ejecuta `npm install` nuevamente
-4. Cierra y abre la terminal
-
-¡Eso soluciona el 99% de los problemas! 😄
-
----
-
-**¡Disfruta explorando la tienda!** 🎉
